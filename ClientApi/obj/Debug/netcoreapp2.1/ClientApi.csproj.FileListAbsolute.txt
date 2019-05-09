@@ -1,0 +1,14 @@
+C:\Users\RFlorendo826\Devstore\ClientApi\bin\Debug\netcoreapp2.1\ClientApi.deps.json
+C:\Users\RFlorendo826\Devstore\ClientApi\bin\Debug\netcoreapp2.1\ClientApi.runtimeconfig.json
+C:\Users\RFlorendo826\Devstore\ClientApi\bin\Debug\netcoreapp2.1\ClientApi.runtimeconfig.dev.json
+C:\Users\RFlorendo826\Devstore\ClientApi\bin\Debug\netcoreapp2.1\ClientApi.dll
+C:\Users\RFlorendo826\Devstore\ClientApi\bin\Debug\netcoreapp2.1\ClientApi.pdb
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.csprojAssemblyReference.cache
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.csproj.CoreCompileInputs.cache
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.RazorAssemblyInfo.cache
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.RazorAssemblyInfo.cs
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.AssemblyInfoInputs.cache
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.AssemblyInfo.cs
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.RazorTargetAssemblyInfo.cache
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.dll
+C:\Users\RFlorendo826\Devstore\ClientApi\obj\Debug\netcoreapp2.1\ClientApi.pdb
